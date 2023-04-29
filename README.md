@@ -4,13 +4,6 @@
 <h3 align="left">A Passionate Developer</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Lives-Canada-blueviolet" />
-  
-<hr>
-<p align="left"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/sachin4999/count.svg" />
-  </br>
-</p>
 
 <img align="right" alt="GIF" src="https://www.lambdatest.com/resources/images/news24.gif?raw=true" width="400" height="260" />
 
@@ -35,6 +28,13 @@
 
 <a href="mailto:sachin41999@gmail.com" target="blank" style="none" >
   <img align="center" src="https://img.shields.io/badge/sachin41999@gmail.com-c14438?style=flat&logo=Gmail&color=white&link=mailto:sachin41999@gmail.com" alt="sachin41999" /></a>
+</p>
+
+<hr>
+<p align="left"> 
+  <b>Visitor count</b><br><br>
+  <img src="https://profile-counter.glitch.me/sachin4999/count.svg" />
+  </br>
 </p>
 
 ## 👨‍💻 Languages and Tools:

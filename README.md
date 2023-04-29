@@ -4,6 +4,13 @@
 <h3 align="left">A Passionate Developer</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Lives-Canada-blueviolet" />
+  
+<hr>
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/sachin4999/count.svg" />
+  </br>
+</p>
 
 <img align="right" alt="GIF" src="https://www.lambdatest.com/resources/images/news24.gif?raw=true" width="400" height="260" />
 
@@ -84,13 +91,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sachin4999's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin4999&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&langs_count=10&layout=compact#" /></a>
   <br/>
 </details>
-
-  <hr>
-    <p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/sachin4999/count.svg" />
-  </br>
-</p>
 
 </details>
 -----

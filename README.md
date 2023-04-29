@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sachin Desai</h1>
 <p align="left"> 
 
-A Passionate Developer
+<h3 align="left">A Passionate Developer</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Lives-Canada-blueviolet" />
+
 <img align="right" alt="GIF" src="https://www.lambdatest.com/resources/images/news24.gif?raw=true" width="400" height="260" />
 
 - 🔭 I’m currently working on **React Native** 
@@ -70,7 +73,6 @@ A Passionate Developer
 
 ## 📈 Github Stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>

@@ -66,9 +66,8 @@
           <td> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p></td> 
           <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            
-        </tr>
-    </tbody>
+
+       
 </table>
 
 ## 📈 Github Stats
